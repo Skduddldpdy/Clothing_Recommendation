@@ -30,3 +30,5 @@ This project is a seasonal outfit recommendation system that uses Hugging Face o
 1. Install dependencies:
    ```bash
    pip install sentence-transformers transformers
+
+![alt text](image.png)
